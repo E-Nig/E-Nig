@@ -1,4 +1,4 @@
-<p style="text-align: center;"> and </p>
+### <h1 align="center"> Hi there <img height="30" src="https://github.com/I1igma/I1igma/blob/main/hi.gif"> </h1>
 
 <!--
 **I1ig/I1ig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

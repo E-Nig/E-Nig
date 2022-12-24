@@ -1,4 +1,4 @@
-###m<p style="text-align: center;"> and </p>
+### <p style="text-align: center;"> and </p>
 
 <!--
 **I1ig/I1ig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-### <h1 align="center"> Hi there ¯\_(ツ)_/¯, give you this 🎁 .<img height="30" src="https://github.com/NigmaZ/NigmaZ/blob/main/hi.gif"> </h1>
+### <h1 align="center"> Hi there ¯l_(ツ)_/¯, give you this 🎁 .<img height="30" src="https://github.com/NigmaZ/NigmaZ/blob/main/hi.gif"> </h1>
 
 <!--
 **I1ig/I1ig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
